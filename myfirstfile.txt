@@ -2,3 +2,6 @@ whatever
 whatever again
 this is going to go wrong or right 
 this is going to go wrong: command not found
+
+making changes online only
+resolved merge conflicts
